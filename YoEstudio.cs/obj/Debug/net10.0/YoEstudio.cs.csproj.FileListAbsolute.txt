@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\bin\Debug\net10.0\YoEstudio.cs.exe
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\bin\Debug\net10.0\YoEstudio.cs.deps.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\bin\Debug\net10.0\YoEstudio.cs.runtimeconfig.json
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\bin\Debug\net10.0\YoEstudio.cs.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\bin\Debug\net10.0\YoEstudio.cs.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.AssemblyInfo.cs
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\refint\YoEstudio.cs.dll
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.pdb
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\YoEstudio.cs.genruntimeconfig.cache
+C:\Users\dell\Documents\semestre 3\ESTRUCTURA DE DATOS (B)\semana5\YoEstudio.cs\obj\Debug\net10.0\ref\YoEstudio.cs.dll
